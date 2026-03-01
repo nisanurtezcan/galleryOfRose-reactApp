@@ -18,3 +18,4 @@ If you are developing a production application, we recommend using TypeScript wi
 =======
 # rosesGallery
 >>>>>>> bcee569974b1641d88ba77a11ab787f1a6e5243e
+"# galleryOfRose-reactApp" 
