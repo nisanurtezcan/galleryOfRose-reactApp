@@ -1,0 +1,25 @@
+.painting-main {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.painting {
+    width: calc(50% - 10px);
+    margin: 5px;
+    box-sizing: border-box;
+}
+
+.painting img {
+    width: 100%; 
+    border: 1px solid black;
+}
+
+.gaegu-regular {
+  font-family: "Gaegu", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  font-style: normal;
+}
+
+
