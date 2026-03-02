@@ -21,7 +21,7 @@ export const paintings = [
     },
     {
         id : 23,
-        title : "Read Man",
+        title : "Skull Crasher",
         description : "A skeleton portrait where bold touches of red make the whole image feel intense and alive.",
         price: 123,
         link: "linkk",
