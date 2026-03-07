@@ -17,7 +17,7 @@ This was my first React project. Even though it’s a small one, it helped me a 
 - Understanding and practicing React’s component logic
 - Working with props 
 - Using ready-made SVG files in the UI
-- Practicing JavaScript fundamentals such as the map() function, callbacks, and class structures
+- Practicing JavaScript fundamentals such as the map() function, callbacks, destructing, and class structures
 - Learning how to deploy a React + Vite app to GitHub Pages
 
 ---
